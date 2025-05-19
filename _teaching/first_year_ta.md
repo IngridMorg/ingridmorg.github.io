@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assitant"
 permalink: /teaching/first_year_ta
 venue: "University of Leeds, School of Computer Science"
-date: 2022
+date: 2022-08-01
 location: "Leeds, UK"
 ---
 

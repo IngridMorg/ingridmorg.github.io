@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Leeds, School of Computer Science"
-date: 2023
+date: 2023-08-01
 location: "Leeds, UK"
 ---
 
