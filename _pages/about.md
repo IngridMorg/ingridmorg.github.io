@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello!
-======
 
 I'm Ingrid, a PhD researcher at the University of Leeds researching Non-Photorealistic Rendering (NPR) and artist control frameworks.
 I have an MEng, BSc in Computer Science with High-Performance Graphics and Games engineering from the University of Leeds.
