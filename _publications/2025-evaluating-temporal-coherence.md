@@ -4,7 +4,7 @@ collection: publications
 category: posters
 permalink: /publication/2025-evaluating-temporal-coherence
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2025
+date: 2025-05-11
 venue: 'Expressive 2025 London'
 paperurl: 'https://diglib.eg.org/items/9024c532-611c-4312-9b48-b51befd80dde'
 citation: ''
