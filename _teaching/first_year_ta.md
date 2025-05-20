@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant - First Year Computer Science Project"
 collection: teaching
-type: "Teaching Assitant"
+type: "Teaching Assistant"
 permalink: /teaching/first_year_ta
 venue: "University of Leeds, School of Computer Science"
 date: 2022-08-01
