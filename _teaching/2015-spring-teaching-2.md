@@ -1,5 +1,5 @@
 ---
-title: "Computer Graphics Teaching Assistant"
+title: "Teaching Assistant - Computer Graphics"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
